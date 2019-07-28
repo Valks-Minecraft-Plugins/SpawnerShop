@@ -1,0 +1,9 @@
+name: SpawnerShop
+main: me.valky.spawnerShop.SpawnerShop
+author: valkyrienyanko
+version: 1.0
+api-version: 1.7.10
+commands:
+   spawnershop:
+     description: Opens up the spawner shop.
+     aliases: [spwnrshop]
